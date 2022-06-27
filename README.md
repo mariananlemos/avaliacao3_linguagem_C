@@ -1,2 +1,2 @@
-# avaliacao3_linguagem_C
-Prova 3 (final) de linguagem C da faculdade.
+# avaliacao_C_3
+Prova 2 realizada na faculdade de Engenharia Química em linguagem C
